@@ -6,3 +6,4 @@
 * GitHub
 * R and RStudio
 * R tools
+* SQL and MySQL
